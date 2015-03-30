@@ -10,7 +10,7 @@ apt-get -y update
 #upgrade installed packages 
 apt-get -y upgrade
 #install custom packages
-apt-get install -y htop nmap tmux wireshark vim vlc 
+apt-get install -y htop nmap tmux wireshark vim vlc python
 #update packages
 apt-get -y update
 #update installed packages

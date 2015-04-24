@@ -1,5 +1,5 @@
 #! /bin/bash
-#firts script
+#first script
 # new to linux, there for got tired of hanging around
 # installing what I wanted on my machine
 
